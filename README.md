@@ -31,3 +31,9 @@ not an iframe
 <li><a href="https://data.energystar.gov/developers/docs/energy-star-certified-clothes-washers">EnergyStar.gov</a></li>
 <li><a href="http://healthindicators.gov/Developers/Examples">HealthIndicators.gov</a></li>
 </ul>
+
+
+~~~~~~~~~~~~~
+Note the role of this method - 
+
+https://raw.github.com/benbalter/simple-api/gh-pages/index.html
