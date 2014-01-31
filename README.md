@@ -18,7 +18,7 @@ http://www.fcc.gov/developers
 
 https://raw.github.com/GSA/slash-developer-pages/master/slash-developer-pages.html
 
-ask pulsifer and ben, too. leah 
+ask pulsifer, ben, phil, leah, @jaalfaro, kin, eric,
 
 not an iframe 
 
